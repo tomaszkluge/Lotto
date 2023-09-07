@@ -15,3 +15,4 @@ while play == 'yes':
             if z == y:
                 correct += 1
     print('You got '+str(correct)+' correct')
+    print('Output numbers were: '+str(back))
